@@ -1,0 +1,24 @@
+{
+    "links": {
+        "sidebar":
+        {
+            "Centre de formation Mediabox": "http://www.mediabox.fr"
+        }
+        ,"sharing": {
+            "weibo": null
+        }
+    },
+    "plugins": [
+        "-mathjax",
+        "-infinitescroll",
+        "richquotes",
+        "jsbin",
+        "anchors"
+    ],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "white",
+            "family": "sans"
+        }
+    }
+}
